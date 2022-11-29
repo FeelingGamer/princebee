@@ -132,6 +132,16 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
+      "name": "Dhemm Magtibay",
+      "job": "Host"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Mark Reniel Belarde",
+      "job": "Host"
+    },
+    {
+      "img": "img/team/01.jpg",
       "name": "Jayvy Ebora",
       "job": "Director"
     },
@@ -149,6 +159,16 @@
       "img": "img/team/04.jpg",
       "name": "Mark Lowel Montealto",
       "job": "Manager"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Leo De Claro",
+      "job": "Admin"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Alexis De Claro",
+      "job": "Owner"
     }
   ],
  
